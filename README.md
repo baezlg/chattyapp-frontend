@@ -15,7 +15,7 @@
 
 Chatty App is a real-time socialnetwork application built with `react`. 
 
-You can find the repo for the backend [here](https://github.com/uzochukwueddie/chatty-backend).
+You can find the repo for the backend [here](https://github.com/baezlg/chattyapp-backend).
 
 ## Screenshots
 
@@ -73,8 +73,8 @@ You can find the repo for the backend [here](https://github.com/uzochukwueddie/c
 - There are three different branches develop, staging and main. The develop branch is the default branch.
 
 ```bash
-git clone -b develop https://github.com/uzochukwueddie/chatty
-cd chatty
+git clone -b develop https://github.com/baezlg/chattyapp-backend
+cd chattyapp-backend
 npm install
 ```
 - To start the server after installation, run
