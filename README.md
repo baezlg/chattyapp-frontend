@@ -73,8 +73,8 @@ You can find the repo for the backend [here](https://github.com/baezlg/chattyapp
 - There are three different branches develop, staging and main. The develop branch is the default branch.
 
 ```bash
-git clone -b develop https://github.com/baezlg/chattyapp-backend
-cd chattyapp-backend
+git clone -b develop https://github.com/baezlg/chattyapp-frontend
+cd chattyapp-frontend
 npm install
 ```
 - To start the server after installation, run
